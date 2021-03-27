@@ -1,0 +1,98 @@
+Skill,Count
+sql,448
+regression,33
+time series,11
+statistics,213
+computer science,222
+excel,326
+power bi,117
+testing,136
+problem solving,206
+communication,357
+data analysis,271
+engineering,178
+data management,125
+forecasting,45
+powerpoint,78
+looker,35
+tableau,223
+project management,94
+administration,74
+r,166
+sas,74
+data collection,95
+math,54
+data warehouse,57
+business intelligence,124
+python,223
+google analytics,34
+data mining,95
+etl,98
+report,144
+agile,71
+ms sql,21
+java,24
+visualization,196
+git,14
+azure,32
+software development,32
+optimization,51
+outlook,36
+data quality,116
+distribution,28
+database administration,5
+classification,32
+database management,42
+ggplot,3
+backend,5
+big data,40
+ai,23
+shiny,5
+docker,3
+aws,32
+salesforce,51
+algorithms,40
+machine learning,77
+hypothesis testing,7
+naive bayes,1
+svm,1
+wrangling,10
+pandas,16
+jupyter,6
+statistical modeling,8
+postgres,9
+decision trees,7
+data cleaning,10
+numpy,10
+scipy,4
+unstructured data,13
+predictive modeling,21
+nosql,8
+matlab,7
+probability,5
+bokeh,2
+mode,4
+scala,5
+matplotlib,1
+seaborn,3
+sklearn,1
+spark,16
+hadoop,23
+cloud computing,2
+clustering,10
+hive,19
+logistic regression,1
+google big query,5
+product design,5
+mongodb,1
+structured data,3
+data studio,8
+preprocessing,3
+feature engineering,4
+teradata,5
+kubernetes,1
+random forest,2
+apache,2
+plotly,2
+nlp,1
+bayesian statistics,1
