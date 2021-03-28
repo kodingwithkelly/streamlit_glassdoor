@@ -12,9 +12,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from gensim.models import Word2Vec
 import nltk
-nltk.download('stopwords')
-# from nltk import sent_tokenize, word_tokenize
+from nltk import sent_tokenize, word_tokenize
+nltk.download('punkt')
 from nltk.corpus import stopwords
+nltk.download("stopwords")
 import re
 
 
@@ -155,10 +156,10 @@ for i in range(len(df['Job Description'])):
     text = re.sub(r'[^\w\s]', ' ', df['Job Description'][i])
     text = re.sub(r'\s+',' ',text) 
     text = text.lower() 
-    sentences = nltk.sent_tokenize(text) 
+    sentences = sent_tokenize(text) 
     all_sentences.extend(sentences)
 
-all_sentences = [nltk.word_tokenize(all_sentence) for all_sentence in all_sentences]
+all_sentences = [word_tokenize(all_sentence) for all_sentence in all_sentences]
 for i in range(len(all_sentences)):
     all_sentences[i] = [i for i in all_sentences[i] if i not in stopwords.words('english')]
     
