@@ -12,6 +12,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from gensim.models import Word2Vec
 import nltk
+nltk.download('stopwords')
 # from nltk import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 import re
