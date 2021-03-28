@@ -15,9 +15,6 @@ import nltk
 # from nltk import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 import re
-# import spacyre
-import en_core_web_sm
-nlp = en_core_web_sm.load()
 
 
 st.set_page_config(layout='wide')
