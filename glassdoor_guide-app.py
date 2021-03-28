@@ -23,7 +23,7 @@ nlp = en_core_web_sm.load()
 st.set_page_config(layout='wide')
 st.title('Glassdoor Data Analyst Guide')
 st.write('Welcome to an all extensive guide for Data Analysts which include top 10 covetted job skills, 146 popular interview questions from Glassdoor, and a salary estimator. We first begin with an EDA of data scraped from Glassdoor.')
-df = pd.read_csv('/Users/kellylam/Glassdoor/Data/Glassdoor_w_Seniority.csv')
+df = pd.read_csv('/Users/kellylam/streamlit_glassdoor/Glassdoor_w_Seniority.csv')
 st.write('Here is my data for reference. This was scraped in March 2021')
 st.dataframe(df)
 
@@ -144,7 +144,7 @@ with row3_2, _lock:
         
 # MAP
 st.subheader('Map of Job Listing Dispersion')
-map_coor = pd.read_csv('/Users/kellylam/Glassdoor/Data/glassdoor_map.csv')
+map_coor = pd.read_csv('/Users/kellylam/streamlit_glassdoor/glassdoor_map.csv')
 map_coor['lat'] = map_coor['Latitude']
 map_coor['lon'] = map_coor['Longitude']
 st.map(map_coor, 7)
@@ -181,7 +181,7 @@ else:
 
 
 # RULE BASED MATCHING 
-skills = pd.read_csv('/Users/kellylam/Glassdoor/Data/skill_count_output.csv')
+skills = pd.read_csv('/Users/kellylam/streamlit_glassdoor/skill_count_output.csv')
 skills = skills.sort_values('Count', ascending = False)
 
 row4_1, row4_2, row4_3 = st.beta_columns(
@@ -216,7 +216,7 @@ else:
 st.subheader('Salary Estimator')
 st.write("Choose the inputs to estimate a data analyst's salary.")
 import pickle
-load_estimator = pickle.load(open('/Users/kellylam/Glassdoor/salary_estimator_svr.pkl', 'rb'))
+load_estimator = pickle.load(open('salary_estimator_svr.pkl', 'rb'))
 df_model = df[['Rating', 'State', 'Size', 'Industry', 'Seniority']]
 rating_sorted = df.Rating.sort_values()
 
