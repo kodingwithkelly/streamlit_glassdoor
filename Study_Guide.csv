@@ -1,0 +1,146 @@
+name,interview questions,category
+ATF,"The interview question was about my previous jobs, skill set, management skills and previous office related job responsible.",experience
+Acclaris,"Most difficult questions were related to SQL specifically. Nested queries, decoding SQL queries.",technical
+Amazon,"how did you analyze data? Who uses your data analysis results? how large is the data set you work with? sql question one: the first table is customer purchase table, with five columns, customer id, purchase date, product id, unit price, unit purchased, write queries to retrieve data with unique customer id that made over $100 purchase in the past seven days. sql question two: a second table is the customer details table, with two columns, customer id, registration date, write queries to retrieve data with unique customer id that made over $100 purchase who registered in the past ten days. probability question: what is the probability of generating ten consecutive numbers in ascending order out of 100 numbers? this is a random number generation question.",probability
+American Express,How many quarters at any given time are in a shopping mall how where are they located?,case
+American Greetings,Tell me about what makes me stand out from other potential applicants.,behavioral
+American Power and Gas,Write Queries using Join,technical
+Apple,What makes you different from the other analysts?,behavioral
+Arch Capital,Do you have experience in Data Modeling?,experience
+Argus Information & Advisory Services,What is interchange?,technical
+Availity,Tell me about yourself,behavioral
+Bell Info Solutions,How do you troubleshoot performance problems in SQL Server?,technical
+Benefit Cosmetics,Revenues and page views are down for the eCommerce site. What things would you look into to figure out why?,case
+Bird,Find for each day what is the number of “Birds” (their product) what is the net PROFIT,case
+BlackRock,Most of the questions were regarding my work experience so far. And a few logic questions like what is the angle between the hours hand and minutes hand when the time is 3:15; How do I identify which switch corresponds to which light bulb when the switches are in one room and the bulbs are in another and given that I can enter the room with bulbs only once.,brain teaser
+Bloomberg L.P.,Where would you put a coffee machine in a car? How do you explain a vending machine to someone who hasn't seen or used one before?,case
+Bloomberg L.P.,What is one issue with big data today? And how would you solve it?,case
+Bloomberg L.P.,What does the following code produce? Why Bloomberg? Why are you interested in Finance? What do you look for when you invest in a company? (I interviewed for the equities team),behavioral
+Bloomberg L.P.,What does our market data analyst do?,behavioral
+Blue Apron,How I would plan meals,case
+Blue Cross and Blue Shield Association,Strengths and Weakness,behavioral
+CFA Institute,Your internship experience and software-using experience.,experience
+CMC,What is EBITDA?,technical
+CME Group,"How to short vega and long gamma, or short gamma and long vega using European call options only?",technical
+CME Group,What are the differences between Python and C++?,technical
+COTA,Tell me about vlookup function in Excel. What would be the substitute functions for vlookup?,technical
+Caesars Entertainment,What is your experience with scraping algorithms.,experience
+Capital One,Describe a time when you had to use persuasion to influence other's opinions.,behavioral
+Capital One,Wheat harvesting case using tractor and calculating break even point. Campaign success measurement - using alpha beta testing.,technical
+Capital One,"A coding company with a new contract. Divided in two cases : 1. short-term contract, 2. long-term contract It was desired to see how the company should deal with the new contract.",case
+Capital One,"Case 1: Given APR, Interchange fee, Avg monthly balance, Avg spend every month, and loss rate of 3% calculate the profit per customer. Now justify if it is profitable to give cash back to the customers.. Case 2: 2 ways of campaigning for credit cards 1. Email - 10% of applicants become customers - each representative can verify 10 email applications in an hr and is paid $25/hr 2. Chat - 20% of applicants become customers - each representative can respond to 4 applications in an hr and is paid $25/hr Profit per customer in both the cases in $100. which one is profitable email or chat. Draw the graph of profit vs no of applicants Consider a scenario where there are only 5 representatives to handle applications. In this case which one is more profitable email or chat. calculate the breakeven point for the no of representatives where chat will be profitable than email.",case
+Capital One,"case study: credit card insurance profit per customer cost of mailing $0.5, response rate 1%, average balance per month $1000, insurance charges 1% of average balance monthly, customer claim rate 5% (once insured customer files a claim, the balance will be wiped and C1 lose $1000). Question: profit per customer, graph claim rate vs response rate, graph profit vs response rate and find the response rate for maximum profit (r=1%)",case
+Capital One,"A time you avoided an obstacle, A time you had to learn something new, Third one was something along the lines of: A time you had to request extra help to complete a project/task",behavioral
+Capital One,"Suppose you take out a loan of $3000 for 1 year. If the loan has an interest of 2% for the first 5 months and 14% for the rest of the year, how much interest will you have to pay by the end of the year?",brain teaser
+Capital One,An ATM makes $2 per customer for 30% of its customers. Each time a customer uses the ATM it costs 2cents. The ATM servicing costs $3000. What is the break even point for this ATM?,brain teaser
+Capital One,"Case interview: basic business problem (if product X costs Capital One $4.00 per unit, with a $800 sunk cost, and we charge X amount of dollars along with a $10 annual fee, how many do we need to sell to break even, etc). Followed by a longer discussion of more complex problems that the situation might entail.",case
+Capital One,what's your most proud project?,behavioral
+Capital One,"One of the questions from the second behavioral interviews: ""Tell us about a time (job-related) when you made an unpopular decision, and despite everybody's doubts, your decision turned out to be the right one.""",behavioral
+CareDash,"if you have a cancer detection test and a population of 10000. This test has 98% accuracy and you know 0.5 of the population has cancer, what is the probability of the test telling people that have cancer that they actually have cancer.",probability
+Centene,When would you use linear regression instead of logistic regression,technical
+Chewy,Tell me about a time you came up with a creative/innovative idea to a high pressure situation,behavioral
+Citi,Why do you want to work here?,behavioral
+Clearwire,Describe your experience with databases?,experience
+Colas,Vlookup,technical
+Colas,How comfortable are you with creating your own data sets from scratch?,experience
+Data Migration Resources,Do you have any experience with SAP or data migration?,experience
+Data Migration Resources,What do you think you'll struggle with in this position?,behavioral
+Dealer.com,Can you add 1-100 together right now? Do this by adding 1+2+3 etc all the way to 100.,brain teaser
+DecisionOne,"Asked about my preferred direction in the company, managerial vs. technical.",behavioral
+Diversified Investment Advisors,What school work have you completed that is relevant to this position?,behavioral
+Donnelley Financial Solutions (DFIN),Tell about any interesting data science project that I have worked on,behavioral
+DraftKings,They gave me a hypothetical fantasy sports game and asked me to find the appropriate prize pool for the game,case
+DraftKings,"Phone Interview #2 You are playing a game of baseball. There are two outs in the bottom of the ninth, and you are down by one run. You are currently a baserunner on first base. [Obviously, you must score or else the game ends]. A)You are trying to figure out if you should steal second base or not. What kind of information do you need to know to inform this decision? B) Every batter in your lineup has identical odds.They get a single 50% of the time and they strike out 50% of the time. If you are on first base, you cannot score on a single. If you are on second, you are guaranteed to score on a single. You successfully steal 75% of the time. Should you steal? [I may be missing some of the nonsense here, but this is all the relevant information] C) It turns out the pitcher acts a bit differently with a runner on second [regardless of who the batter is] and no other runners on base. Under these circumstances, he is 50% to strike them out, 40% to surrender a walk, and 10% to surrender a hit. How does this change things/ should you steal?",case
+E*TRADE Financial,What kind of salary are you expecting?,behavioral
+EY,What is the angle between the hour and minute hand at 3:15.,brain teaser
+Edison Software,What is your confidence level in certain programs,behavioral
+Edison Software,What is your confidence level in certain programs,experience
+Enova,Estimate how many shoes can be sold in US in one year?,case
+Enova,"If you have a 5*5*5 cubic, what is the outside surface area?",brain teaser
+Enterprise Peak,Why are manhole covers round?,brain teaser
+FXDD,A frog falls down a well of 50ft. Each day he climbs up 3 and each night falls down 2. How many days does it take him to get out?,brain teaser
+Federal Reserve Board,Tell me your experience working with large data sets.,experience
+FieldEdge,"""I am an angry customer, I want to return the product because of lack of communication. I also feel misled""...how would you approach this situation?",behavioral
+Flexport,The sales team wants to have an estimate on how much Flexport should charge for a shipment from a port to a destination inland. How would you build a basic pricing model to price this shipment?,technical
+Fund for the Public Interest,Tell me a time where you introduced a new process?,behavioral
+Gonzales Consulting Services,What is the main reason for applying for this position?,behavioral
+Google,"I was asked technical questions like how I would organize an excel spreadsheet with thousands of lines of information based on specific requirements marketing/marketing researchers need. Also, how I would I merge the information provided from a client, and information given by Tribune Media Services about media content.",technical
+Google,"If you have 10 bags of marbles with 10 marbles each and one bag has marbles that weigh differently than the others, how would you figure it out from one weighing",brain teaser
+Google,How many cans of blue paint were sold in the United States last year?,case
+Great Western Bancorp,"Tell me about yourself, career goals, and skills.",behavioral
+Great-Circle Technologies,"Python and R, on a scale of 1-10 how would you rate your proficiency in these languages?",experience
+Grubhub,How would you go about modeling something?,technical
+Guidehouse,"The average high temperature for x days is 70 degrees. the next day has a high temperature of 84 degrees, which raises the overall average to 72 degrees. what is the value of x",brain teaser
+Guidehouse,"You have 8 marbles and a balance scale. One marble weighs more than the others, but you don’t know which one. How can you identify the heavier marble using only two weighs of the balance scale?",brain teaser
+HCL Technologies,What qualifications do I have?,behavioral
+HSW International,Do you know what a database is?,technical
+Headspace,Have you worked with Tableau before?,experience
+Health Management Systems,What super-hero would you like to be.,behavioral
+Hotel Engine,Write a query to find the 2nd highest value in dataset,technical
+Hydraforce,"Basically, he asked how I can manage the quite volume of data and he said eventually he will ask me to manipulate the data, which requires skillful knowledge of Excel.",technical
+InComm,Why InComm of all places?,behavioral
+Infant Solutions,How many hours do you work on excel. How many hours do you work competitors data and competitors analysis. How much time to prepare competitive reports. Etc,experience
+IntegraFEC,How would you predict the price of a stock with the historical data of that stock's prices?,technical
+Intuit,"How to calculate the average number of people in one family member, after survey by a call?",case
+Joerns Healthcare,How familiar are you with APP's?,experience
+John C. Fremont Healthcare,Do you know SQL? Do you know how to build a data warehouse?,technical
+Kaplan,"What are 5 uncommon uses of a brick, not including building, layering, or a paper-weight?",brain teaser
+Keap,Prepare a five slide deck of business insights from a set of their data.,technical
+Liberty Mutual Insurance,What is your career path?,behavioral
+LinkedIn,"Why do you want to work for LinkedIn, a lot of questions about my experiences on my resume, critical and analytical thinking questions",behavioral
+Lord Abbett & Co.,Tell me about your self,behavioral
+Lucid,"If we give you a data, which is not clean, how can you transfer it to a doable format?",technical
+Lyft,"What is the probability in a random sequence of H and T's, the subsequence HHT comes before HTT?",probability
+Lyft,How would you evaluate whether a 50% rider discount is a good or bad thing?,brain teaser
+Lyft,A lot of strategic discussion of Gigeconomy and rideshare data strategizes.,technical
+MSB,What is your greatest work related weakness?,behavioral
+MUFG,How do you hide data in Excel?,technical
+MXenergy,What is the most difficult problem you have had to face at work and how you resolved it,behavioral
+Maestro Technologies,"Around logistic regression, data cleaning, difference between data mining and data profiling",technical
+Microsoft,"Before put the data into the model, what do you need to do?",technical
+Microsoft,I was aske to specify as many ways to return the rowcount in the table.,technical
+Microsoft,I was asked about clustered or non-clustered indexes.,technical
+Mission Pets,"You have three boxes marked C, D, and CD that contain products C, D, and CD. Each box label is wrong. By opening one box and extracting one product without looking at the contents, you can determine the contents of the other two boxes. From which box do you draw a product? Why?",brain teaser
+MongoDB,"Write a script to return the word that appears the most in a string, and the number of times it appears",technical
+Moody's Corporation,Name a non-depreciated asset.,technical
+Moody's Corporation,"Q. If you had to chose only one financial statement, which one would you choose?",technical
+Myriad Genetics,Where do you see yourself in ten years?,behavioral
+NEA,Was I good with Microsoft applications?,experience
+Natera,Who's your (previous company) stockholder? Do you know anything about stockholder?,experience
+Oakland Unified School District,Give some examples of how you have used data in the past to answer questions or solve problems.,behavioral
+Optiver,"Two players are at deuce in a tennis match - player 1 has 60% of winning the point, player 2 has 40% chance. What are the odds of player 1 winning?",probability
+PPG,They asked how I would deal with combative coworkers. And give examples.,behavioral
+PayPal,Do you have any experience being a data analyst?,experience
+Philips Arena,"Introduction, about the tools I had developed in my previous experience, the workflow of the job data analyst, explain data cleaning",technical
+Pluto TV,What's COPPA? What's UUID/idfa/VAST tag? What's confidence interval? What's t-test? What is this SQL query doing? Give me an example that you promised to finish a task by a certain date but you failed to finish it on time.,technical
+Progressive Insurance,Tell me about a time that you had to get the resources / support of a person not directly in your control or functional group.,behavioral
+Refinery29,Describe your previous role.,behavioral
+Remedy Partners,How many hip replacement surgeries are going on in the U.S right now?,case
+Rocket Fuel,"Given a plot of land and $250,000, what can you do to maximize your revenue and what kinds of data would you look at to do so?",case
+Sapphire Digital,9. You have decided to delete doctors that contained the name ‘John’ in their name. You have a function in the lib schema called item_remove where the first item in the function is the table and the second item is the provider_id. Write a shell script that will connect to the database and loop through the provider_id into the function.,technical
+Sherwin-Williams,How did you handle a difficult team member in the past?,behavioral
+Sikka Software,Q1. Describe the multiple linear regression.,technical
+Spreetail,What's your most accomplishment?,behavioral
+Square,"simple SQL like give me top 5 records, give me maximum date, etc",technical
+Swedish,How do you feel about data?,behavioral
+T. D. Williamson,Where do you see yourself five years from now? ,behavioral
+Tata Consultancy Services,"Tell me about yourself Work experience SQL question 1. Explain JOIN 2. Drop, delete and Truncate difference 3. Write a query using a group by 4. Decode Function in SQL",technical
+Therapeutic Health Services,What would you bring to the company as an individual!? And what you think of this organization?,behavioral
+TrialPay,Do you have experience in Hadoop?,experience
+Trinity Financial Services,Describe yourself.,behavioral
+U.S. Genomics,how do u update their flat seq files on a daily base?,technical
+UW Medical Foundation,tell me how you solve problems,behavioral
+Uber,What is the market size for Uber in the US in large cities? How many drivers are needed?,case
+Uber,"A car starts driving at 60 mph, one hour later a car leaves the same position going 80 mph. How much time will pass until the second car catches the first?",brain teaser
+Uber,"Given a revenue transaction table that contains user_id, timestamp, and revenue, how would you find the third purchase of every user?",technical
+University of Utah,Do you have experience as a manager?,experience
+Upstart,"A client told us 400/1million of our customers will die in the next month. In the next month, 450/1million of our customers died. How do we assess whether or not the model is okay?",case
+Upstart,"Suppose we have two variables, X and Y, where Y = X + some normal white noise. We regress Y on X, what will our coefficient be? Then we regress X on Y, what happens?",technical
+Upstart,"Success and Speed are highly correlated, we have a great model for it, there is a strong relationship between them. When we take a bunch of athletes and compare their success and speed, there is no relationship. Why is this?",case
+VSE,"Strengths & Weakness, working together as a team or individual, where I see myself in 3 and 5 years, How would past employer describe your work ethic.",behavioral
+Valmet,"I was asked to talk about what irritates me. That particular question sticks out in my mind. They were very keen about my reply, too.",behavioral
+Washington Technology Solutions,Tell about a time you had to work with a confrontational employee.,behavioral
+Wayfair,"SQL problem easy programming language a/b test question data insight question,",technical
+WorldQuant,Sort lines in a txt file by one of the columns using shell scripting.,technical
+Yerba Buena Beverage,How can you judge yourself?,behavioral
+Zynga,what&#039;s the angle of the 2 feet @ 3:15 on an analog watch.,brain teaser
