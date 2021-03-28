@@ -17,7 +17,7 @@ nltk.download('punkt')
 from nltk.corpus import stopwords
 nltk.download("stopwords")
 import re
-
+from sklearn.svm import SVR
 
 st.set_page_config(layout='wide')
 st.title('Glassdoor Data Analyst Guide')
