@@ -6,3 +6,4 @@ gensim==3.8.3
 nltk==3.5
 regex==2020.10.15
 pickleshare==0.7.5
+scikit-learn==0.23.2
